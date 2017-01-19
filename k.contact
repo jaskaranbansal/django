@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c:contact c:Version="1" xmlns:c="http://schemas.microsoft.com/Contact" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:MSP2P="http://schemas.microsoft.com/Contact/Extended/MSP2P">
+	<c:CreationDate>2017-01-19T17:06:19Z</c:CreationDate><c:Extended xsi:nil="true"/>
+	<c:ContactIDCollection><c:ContactID c:ElementID="a206aff2-1180-407b-a53b-88cbf738aef2"><c:Value>17e13f09-c9e3-4ae7-b642-c177f3182f79</c:Value></c:ContactID></c:ContactIDCollection><c:NameCollection><c:Name c:ElementID="9288216b-54cd-49c0-9a6e-86287182f3f6"><c:FormattedName>k</c:FormattedName><c:GivenName>k</c:GivenName></c:Name></c:NameCollection><c:PhotoCollection><c:Photo c:ElementID="fc80e40a-b1e5-4bd8-be4f-427f94f6e27c"><c:LabelCollection><c:Label>UserTile</c:Label></c:LabelCollection></c:Photo></c:PhotoCollection></c:contact>
